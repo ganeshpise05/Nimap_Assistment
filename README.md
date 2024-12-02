@@ -78,6 +78,7 @@ mvn spring-boot:run
 ### Category Table:
 
 sql
+```
 CREATE TABLE category (
     id INT PRIMARY KEY,
     name VARCHAR(255) NOT NULL 
